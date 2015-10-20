@@ -1,1 +1,1 @@
-cout<<"Go Beach"<<;
+cout<<"Go Trojans"<<;
